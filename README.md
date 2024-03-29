@@ -1,7 +1,6 @@
 
 # Aula relações entre classes Exercicio2
 
-Descrição concisa do que o projeto faz.
 
 ## Sobre o Projeto
 
